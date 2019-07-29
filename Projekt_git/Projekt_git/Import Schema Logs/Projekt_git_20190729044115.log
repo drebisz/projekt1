@@ -1,0 +1,85 @@
+29.07.2019 18:41:15	This log contains information about the import schema operation into project 'Projekt_git' on computer 'PK5-11' by user 'd.rebisz'.
+29.07.2019 18:41:15	Import of database schema has started.
+29.07.2019 18:41:21	Gathering database credentials
+29.07.2019 18:41:21	Gathering database options
+29.07.2019 18:41:21	Gathering generic database scoped configuration option
+29.07.2019 18:41:21	Gathering users
+29.07.2019 18:41:21	Gathering roles
+29.07.2019 18:41:21	Gathering application roles
+29.07.2019 18:41:21	Gathering role memberships
+29.07.2019 18:41:21	Gathering filegroups
+29.07.2019 18:41:21	Gathering full-text catalogs
+29.07.2019 18:41:21	Gathering assemblies
+29.07.2019 18:41:21	Gathering certificates
+29.07.2019 18:41:21	Gathering asymmetric keys
+29.07.2019 18:41:21	Gathering symmetric keys
+29.07.2019 18:41:21	Gathering encrypted symmetric keys
+29.07.2019 18:41:21	Gathering schemas
+29.07.2019 18:41:21	Gathering XML schema collections
+29.07.2019 18:41:21	Gathering user-defined data types
+29.07.2019 18:41:21	Gathering user-defined types
+29.07.2019 18:41:21	Gathering table types
+29.07.2019 18:41:21	Gathering unique keys for table types
+29.07.2019 18:41:21	Gathering primary keys for table types
+29.07.2019 18:41:21	Gathering indexes for table types
+29.07.2019 18:41:21	Gathering check constraints for table types
+29.07.2019 18:41:21	Gathering default constraints for table types
+29.07.2019 18:41:21	Gathering partition functions
+29.07.2019 18:41:21	Gathering partition schemes
+29.07.2019 18:41:21	Gathering functions
+29.07.2019 18:41:21	Gathering encrypted functions
+29.07.2019 18:41:21	Gathering aggregates
+29.07.2019 18:41:21	Gathering procedures
+29.07.2019 18:41:21	Gathering encrypted procedures
+29.07.2019 18:41:21	Gathering tables
+29.07.2019 18:41:21	Gathering primary keys
+29.07.2019 18:41:21	Gathering unique constraints
+29.07.2019 18:41:21	Gathering foreign keys
+29.07.2019 18:41:21	Gathering default constraints
+29.07.2019 18:41:21	Gathering check constraints
+29.07.2019 18:41:21	Gathering views
+29.07.2019 18:41:21	Gathering encrypted views
+29.07.2019 18:41:21	Gathering indexes
+29.07.2019 18:41:21	Gathering statistics
+29.07.2019 18:41:21	Gathering full-text index stoplists
+29.07.2019 18:41:21	Gathering search property lists
+29.07.2019 18:41:21	Gathering search properties
+29.07.2019 18:41:21	Gathering full-text indexes
+29.07.2019 18:41:21	Gathering column store indexes
+29.07.2019 18:41:21	Gathering spatial indexes
+29.07.2019 18:41:21	Gathering XML indexes
+29.07.2019 18:41:21	Gathering Selective XML indexes
+29.07.2019 18:41:21	Gathering encrypted triggers
+29.07.2019 18:41:21	Gathering triggers
+29.07.2019 18:41:21	Gathering encrypted and clr ddl triggers
+29.07.2019 18:41:21	Gathering ddl triggers
+29.07.2019 18:41:21	Gathering synonyms
+29.07.2019 18:41:21	Gathering defaults
+29.07.2019 18:41:21	Gathering data constraint uddt bindings
+29.07.2019 18:41:21	Gathering rules
+29.07.2019 18:41:21	Gathering data constraint uddt bindings
+29.07.2019 18:41:21	Gathering message types
+29.07.2019 18:41:21	Gathering queues
+29.07.2019 18:41:21	Gathering contracts
+29.07.2019 18:41:21	Gathering services
+29.07.2019 18:41:21	Gathering event notifications
+29.07.2019 18:41:21	Gathering remote service bindings
+29.07.2019 18:41:21	Gathering broker priorities
+29.07.2019 18:41:21	Gathering signatures
+29.07.2019 18:41:21	Gathering data compression options
+29.07.2019 18:41:21	Gathering sequence types
+29.07.2019 18:41:21	Gathering security policies
+29.07.2019 18:41:21	Gather column encryption keys
+29.07.2019 18:41:21	Gathering column master keys
+29.07.2019 18:41:21	Gathering external data sources
+29.07.2019 18:41:21	Gathering external file formats
+29.07.2019 18:41:21	Gathering external tables
+29.07.2019 18:41:21	Gathering extended properties
+29.07.2019 18:41:21	Gathering credentials
+29.07.2019 18:41:21	Gathering logins
+29.07.2019 18:41:21	Gathering server audits
+29.07.2019 18:41:21	Scanning project for duplicate elements
+29.07.2019 18:41:21	Finished duplicate element processing
+29.07.2019 18:41:21	Finished importing database.
+29.07.2019 18:41:21	A summary of the import was saved to the following location: D:\Users\d.rebisz\Source\Repos\drebisz\projekt1\Projekt_git\Projekt_git\Import Schema Logs\Projekt_git_20190729044115.log
+29.07.2019 18:41:21	Click Finish to continue...
